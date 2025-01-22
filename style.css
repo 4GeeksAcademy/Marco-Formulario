@@ -1,0 +1,27 @@
+span {
+    border-radius: 5px;
+}
+
+
+
+.card {
+    margin:2rem ;
+    border-radius: 1px;
+
+}
+
+.div-pago {
+    padding-left: 2rem;
+    border-radius: 5px;
+    border-color: gray
+}
+
+.div-texto {
+    padding-right: 1.8rem;
+}
+
+.pago {
+    background-color: darkgray;
+    
+   
+}
